@@ -45,4 +45,14 @@ Headbar holders are CNC machined from an Aluminum sheet (6061-T6511) of desired 
 | ![](https://user-images.githubusercontent.com/30758521/56933748-19726e80-6ab7-11e9-8294-1079c5b4905c.jpg) |
 |:--:|
 
+## Acknowledgements
+The various part files were originally designed and repeatedly revisioned by numerous graduate students of the Drew Lab (Including, but certainly not limited to:)
+- Gar Waterman
+- Yurong Guo
+- Bingxing Huo
+- Aaron Winder
+- Kyle Gheres
+- Qingguang Zhang
+- Kevin Turner
 
+This is only a small sample set of the head-bars and holders used in the Drew Lab. If you are interested in other specific files, such as those used during neonate experiments or others not mentioned, contact Patrick Drew (pjd17@psu.edu).
