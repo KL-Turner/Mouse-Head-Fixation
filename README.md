@@ -4,13 +4,13 @@ Part files and drawings for the mouse stereotactic head-bars/holders used during
 This repository contains numerous SolidWorks part files, drawing files, and PDFs of those drawing files for numerous head-bar sizes, as well some of the different holders for those head-bars used during imaging. The head-bars are implanted during surgery (**See** https://www.nature.com/articles/s41593-017-0007-y **and** https://www.jove.com/video/3742/a-polished-reinforced-thinned-skull-window-for-long-term-imaging **for more details**) with the headbar being secured in the holder during data acquisition.
 
 ## Repository Contents
-- Adult head-bar 0.035 inches in thickness
-- Adult head-bar 0.050 inches thickness
-- Adult head-bar 0.063 inches in thickness
+- Adult head-bar 0.035 inches thick
+- Adult head-bar 0.050 inches thick
+- Adult head-bar 0.063 inches thick
 - Adult head-bar 0.035 inches thick with a center shank
 - Adult head-bar 0.050 inches thick with a center shank
 - Adult head-bar 0.063 inches thick with a center shank
-- Adult head-bar 0.050 inches this with a 0.025 inch cut out of the center
+- Adult head-bar 0.050 inches thick with a 0.025 inch cut out of the center
 
 For quick inspection, simply download the PDF of the desired part. The following images include just a few of the part files, as well as some images of them after fabrication.
 
