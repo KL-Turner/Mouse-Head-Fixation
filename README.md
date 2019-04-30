@@ -46,7 +46,7 @@ Headbar holders are CNC machined from an Aluminum sheet (6061-T6511) of desired 
 |:--:|
 
 ## Acknowledgements
-The various part files were originally designed and repeatedly revisioned by numerous graduate students of the Drew Lab (Including, but certainly not limited to:)
+The various part files were originally designed and repeatedly revisioned by numerous members of the Drew Lab (Including, but certainly not limited to:)
 - Gar Waterman
 - Yurong Guo
 - Bingxing Huo
