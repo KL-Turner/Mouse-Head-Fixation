@@ -45,12 +45,10 @@ Headbar holders are CNC machined from an Aluminum sheet (6061-T6511) of desired 
 ### Resting imaging holder in a two-photon imaging set-up  
 
 | ![](https://user-images.githubusercontent.com/30758521/56933764-28f1b780-6ab7-11e9-8b98-4a3c7f98c180.jpg) |
-|:----:|
 
 ### Resting imaging holder in an IOS imaging set-up
 
 | ![](https://user-images.githubusercontent.com/30758521/56933748-19726e80-6ab7-11e9-8294-1079c5b4905c.jpg) |
-|:----:|
 
 ## Acknowledgements
 
