@@ -5,6 +5,10 @@ https://kl-turner.github.io/Mouse-Head-Fixation/
 
 This repository contains numerous SolidWorks part files, drawing files, and PDFs of those drawing files for numerous head-bar sizes, as well some of the different holders for those head-bars used during imaging. The head-bars are implanted during surgery (**See** https://www.nature.com/articles/s41593-017-0007-y **and** https://www.jove.com/video/3742/a-polished-reinforced-thinned-skull-window-for-long-term-imaging **for more details**) with the headbar being secured in the holder during data acquisition.
 
+| [A] Cutting wire | [B] 2 wires per electrode| [C] Stripping off coating |
+|:----:|:----:|:----:|
+| ![](https://user-images.githubusercontent.com/30758521/57000674-bea64900-6b82-11e9-8caf-314c682fa448.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000650-a8988880-6b82-11e9-867b-00b675534a66.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000628-91599b00-6b82-11e9-9afd-2944c89f8057.jpg) |
+
 ## Repository Contents
 - Adult head-bar 0.035 inches thick
 - Adult head-bar 0.050 inches thick
