@@ -55,4 +55,4 @@ The various part files were originally designed and repeatedly revisioned by num
 - Qingguang Zhang
 - Kevin Turner
 
-This is only a small sample set of the head-bars and holders used in the Drew Lab. If you are interested in other specific files, such as those used during neonate experiments or others not mentioned, contact Patrick Drew (pjd17@psu.edu).
+This is only a small sample set of the head-bars and holders used in the Drew Lab. If you are interested in other specific files, such as those used during neonate experiments or others not mentioned, contact klt8@psu.edu.
