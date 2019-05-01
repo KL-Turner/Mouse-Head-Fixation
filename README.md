@@ -7,7 +7,7 @@ This repository contains numerous SolidWorks part files, drawing files, and PDFs
 
 | [A] Cutting wire | [B] 2 wires per electrode| [C] Stripping off coating |
 |:----:|:----:|:----:|
-| ![](https://user-images.githubusercontent.com/30758521/57000674-bea64900-6b82-11e9-8caf-314c682fa448.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000650-a8988880-6b82-11e9-867b-00b675534a66.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000628-91599b00-6b82-11e9-9afd-2944c89f8057.jpg) |
+| ![](https://user-images.githubusercontent.com/30758521/56934971-5ab94d00-6abc-11e9-9b6c-a830439a882e.PNG) | ![](https://user-images.githubusercontent.com/30758521/56934978-67d63c00-6abc-11e9-99d7-9a15f7368207.PNG) | ![](https://user-images.githubusercontent.com/30758521/56934986-73296780-6abc-11e9-9898-688b6512fee1.PNG) |
 
 ## Repository Contents
 - Adult head-bar 0.035 inches thick
