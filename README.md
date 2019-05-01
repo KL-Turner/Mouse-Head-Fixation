@@ -5,7 +5,7 @@ https://kl-turner.github.io/Mouse-Head-Fixation/
 
 This repository contains numerous SolidWorks part files, drawing files, and PDFs of those drawing files for numerous head-bar sizes, as well some of the different holders for those head-bars used during imaging. The head-bars are implanted during surgery (**See** https://www.nature.com/articles/s41593-017-0007-y **and** https://www.jove.com/video/3742/a-polished-reinforced-thinned-skull-window-for-long-term-imaging **for more details**) with the headbar being secured in the holder during data acquisition.
 
-| [A] Cutting wire | [B] 2 wires per electrode| [C] Stripping off coating |
+| Sample Head-bar | Running wheel holder | Resting imaging holder |
 |:----:|:----:|:----:|
 | ![](https://user-images.githubusercontent.com/30758521/56934971-5ab94d00-6abc-11e9-9b6c-a830439a882e.PNG) | ![](https://user-images.githubusercontent.com/30758521/56934978-67d63c00-6abc-11e9-99d7-9a15f7368207.PNG) | ![](https://user-images.githubusercontent.com/30758521/56934986-73296780-6abc-11e9-9898-688b6512fee1.PNG) |
 
@@ -23,11 +23,13 @@ For quick inspection, simply download the PDF of the desired part. The following
 ## Image Gallery
 
 ### Sample part drawings
-| Sample Head-bar           | Running wheel holder      | Resting imaging holder    |
-|:------------------------- |:------------------------- |:------------------------- |
+
+| Sample Head-bar | Running wheel holder | Resting imaging holder |
+|:----:|:----:|:----:|
 | ![](https://user-images.githubusercontent.com/30758521/56934971-5ab94d00-6abc-11e9-9b6c-a830439a882e.PNG) | ![](https://user-images.githubusercontent.com/30758521/56934978-67d63c00-6abc-11e9-99d7-9a15f7368207.PNG) | ![](https://user-images.githubusercontent.com/30758521/56934986-73296780-6abc-11e9-9898-688b6512fee1.PNG) |
 
 ### A few finished products
+
 | Sample Head-bar           | Resting imaging holder    |
 |:------------------------- |:------------------------- |
 | ![](https://user-images.githubusercontent.com/30758521/56933686-ecbe5700-6ab6-11e9-952e-4e84a8989036.jpg) | ![](https://user-images.githubusercontent.com/30758521/56933617-a963e880-6ab6-11e9-89e1-332d7da35dc1.jpg) |
