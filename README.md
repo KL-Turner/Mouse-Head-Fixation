@@ -1,5 +1,5 @@
-# Mouse-Stereotactic-Holders
-Part files and drawings for the mouse stereotactic head-bars/holders used during IOS &amp; 2P Imaging
+# Mouse-Head-Fixation
+Part files and drawings for the mouse head-bars/holders used during IOS &amp; 2P Imaging
 
 This repository contains numerous SolidWorks part files, drawing files, and PDFs of those drawing files for numerous head-bar sizes, as well some of the different holders for those head-bars used during imaging. The head-bars are implanted during surgery (**See** https://www.nature.com/articles/s41593-017-0007-y **and** https://www.jove.com/video/3742/a-polished-reinforced-thinned-skull-window-for-long-term-imaging **for more details**) with the headbar being secured in the holder during data acquisition.
 
