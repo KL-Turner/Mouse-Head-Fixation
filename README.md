@@ -13,6 +13,9 @@ This repository contains numerous SolidWorks part files, drawing files, and PDFs
 - Adult head-bar 0.050 inches thick with a center shank
 - Adult head-bar 0.063 inches thick with a center shank
 - Adult head-bar 0.050 inches thick with a 0.025 inch cut out of the center
+- Surgical head-bar holder
+- Running wheel head-bar holder
+- Tube (rest/sleep imaging) head-bar holder 
 
 For quick inspection, simply download the PDF of the desired part. The following images include just a few of the part files, as well as some images of them after fabrication.
 
@@ -32,7 +35,7 @@ For quick inspection, simply download the PDF of the desired part. The following
 
 The head-bars are CNC machined from a Titanium sheet (Commerically Pure [CP] Grade 2) of desired thickness due to its biocompatibility, anti-corrosion properties, and overall strength. Titanium is also resistant to acetone, which is used to dissolve the various adhesives to secure the head-bar, thinned-skull windows, electrodes, cannula, and other components during surgery. These bars are designed to be cleaned and re-used indefinitely. 
 
-Headbar holders are CNC machined from an Aluminum sheet (6061-T6511) of desired thickness due to it being easily machinable, light-weight, anti-corrosion properties, and having sufficient strength (there's no significant stressed applied to any part) for the desired application.
+Headbar holders are CNC machined from an Aluminum sheet (6061-T6511) of desired thickness due to it being easily machinable, light-weight, anti-corrosion properties, and having sufficient strength (there's no significant stresses applied to any part) for the desired applications.
 
 **If any of the individual part files have a listed material, disregard it in favor of the aforementioned**
 
